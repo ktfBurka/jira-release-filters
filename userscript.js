@@ -60,11 +60,11 @@ color: #00dd0b !important
 }
 
 .tab-count.done {
-color: #00875A !important
+color: red !important
 }
 
 .tab-count.inProgress {
-color: red !important
+color: #8ba3e8 !important
 }
 
 .tab-count.functionalTesting {
