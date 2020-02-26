@@ -56,7 +56,7 @@ margin: 5px auto auto 20px
 }
 
 .tab-count.passedFunctional {
-color: #00dd0b !important
+color: blue !important
 }
 
 .tab-count.done {
