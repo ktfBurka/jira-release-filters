@@ -34,7 +34,7 @@ display: none;
 }
 
 .custom-tab-active {
-border-bottom: 3px solid #a8a8a8
+border-bottom: 3px solid red;
 }
 
 #custom-filter-li {
